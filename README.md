@@ -1,4 +1,8 @@
 # Setting up an express.js REST API
+This repository contains the source code of the project __simple-rest__.
+That project is used to show case a basic setup of an express.js REST API.
+
+## Licencing
 All the code in this repository is licensed under [version 3 of the GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html).
 A copy of this license can be found in __COPYING__.
 
