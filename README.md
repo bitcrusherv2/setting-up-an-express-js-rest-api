@@ -15,7 +15,7 @@ Instead, it is specifically focused on the implementation of such APIs in expres
 All the code in this repository is licensed under [version 3 of the GNU Affero General Public License](https://www.gnu.org/licenses/agpl.html).
 A copy of this license can be found in __COPYING__.
 
-Other (non code works) are licensed under a
+All other works are licensed under a
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 [![GPL-3.0 logo](https://www.gnu.org/graphics/agplv3-with-text-162x68.png)](https://www.gnu.org/licenses/agpl.html)
